@@ -61,7 +61,15 @@
 
 <!-- ### Highlighted Projects
 - [Project 1](https://github.com/tuusuario/proyecto1): Brief project description.
-- [Project 2](https://github.com/tuusuario/proyecto2): Brief project description. -->
+- [Project 2](https://github.com/tuusuario/proyecto2): Brief project description. 
 
 ### My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical) -->
+
+### 🎵🕺🏻 Song Recommendations
+
+Here are some song recommendations that I enjoy:
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nikoork08&count=5)
+
+I hope you find some of these songs enjoyable! 
