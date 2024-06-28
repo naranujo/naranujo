@@ -37,6 +37,17 @@
 - Web and mobile development
 - Data analysis
 
+### Soft Skills
+- Habilidades para trabajar en equipo
+- Capacidad de resolución de problemas
+- Comunicación efectiva
+
+### Languages
+<div style="display: flex;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="50" height="28">
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" width="50" height="28">
+</div>
+
 ### 📫 How to reach me:
 - 📧 Email: [araujo_n@outlook.com](mailto:araujo_n@outlook.com)
 - 💼 LinkedIn: [Nicolás Araujo](https://www.linkedin.com/in/nicolas-araujo/)
