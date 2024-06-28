@@ -1,20 +1,38 @@
 # ¡Hola! 👋 Soy Nicolás Araujo
 
-🎓 Soy estudiante de 4to año de la Licenciatura en Negocios Digitales en la Universidad de San Andrés con mucha pasión por el mundo digital, particularmente por las tecnologías emergentes. En los últimos 6 años he dedicado gran parte de mi tiempo a especializarme en áreas como programación, desarrollo de productos digitales y con fuerte interés por el análisis de datos. 🚀 También, he participado de proyectos y competencias que me han permitido aplicar mis habilidades y experimentar con tecnologías nuevas y disruptivas. Además, tengo una gran capacidad para trabajar en equipo y enfrentar desafíos complejos. 💪 Actualmente, busco oportunidades de prácticas profesionales que me permitan seguir aprendiendo y adquiriendo experiencia en el mundo tech. 🌟
+🎓 Soy estudiante de 4to año de la Licenciatura en Negocios Digitales en la Universidad de San Andrés. Tengo mucha pasión por el mundo digital, particularmente por las tecnologías emergentes.
 
-### ✨ Creating bugs since ...
-2018
+🚀 En los últimos 6 años he dedicado gran parte de mi tiempo a especializarme en áreas como programación, desarrollo de productos digitales y tengo un fuerte interés por el análisis de datos. He participado en proyectos y competencias que me han permitido aplicar mis habilidades y experimentar con tecnologías nuevas y disruptivas.
 
-### 📚 I'm currently learning ...
+💪 Además, tengo una gran capacidad para trabajar en equipo y enfrentar desafíos complejos. Actualmente, busco oportunidades de prácticas profesionales que me permitan seguir aprendiendo y adquiriendo experiencia en el mundo tech. 🌟
+
+### 🔭 I’m currently working on ...
+- Proyectos personales de desarrollo web y móvil.
+
+### 🌱 I’m currently learning ...
 - TypeScript
 - Docker
 
-### 🎯 Goals:
-- Contribuir a proyectos de código abierto
-- Aprender sobre inteligencia artificial
+### 👯 I’m looking to collaborate on ...
+- Proyectos de código abierto
 
-### 🎲 Fun fact:
-Comienzo mil proyectos personales, pero nunca termino 😅
+### 🤔 I’m looking for help with ...
+- Mejorar mis habilidades en inteligencia artificial
+
+### 💬 Ask me about ...
+- Desarrollo web y móvil
+- Análisis de datos
+
+### 📫 How to reach me:
+- 📧 Email: [araujo_n@outlook.com](mailto:araujo_n@outlook.com)
+- 💼 LinkedIn: [Nicolás Araujo](https://www.linkedin.com/in/nicolas-araujo/)
+- 🌐 Portfolio: [nicolasaraujo.com.ar](https://nicolasaraujo.com.ar/)
+
+### 😄 Pronouns:
+- He/Him
+
+### ⚡ Fun fact:
+- Comienzo mil proyectos personales, pero nunca termino 😅
 
 ### Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -28,30 +46,9 @@ Comienzo mil proyectos personales, pero nunca termino 😅
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Proyectos Destacados
+<!-- ### Proyectos Destacados
 - [Proyecto 1](https://github.com/tuusuario/proyecto1): Breve descripción del proyecto.
-- [Proyecto 2](https://github.com/tuusuario/proyecto2): Breve descripción del proyecto.
+- [Proyecto 2](https://github.com/tuusuario/proyecto2): Breve descripción del proyecto. -->
 
 ### Mis Estadísticas de GitHub
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-
-### Contacto
-- 📧 Email: [araujo_n@outlook.com](mailto:araujo_n@outlook.com)
-- 💼 LinkedIn: [Nicolás Araujo](https://www.linkedin.com/in/nicolas-araujo/)
-- 🌐 Portfolio: [nicolasaraujo.com.ar](https://nicolasaraujo.com.ar/)
-
-
-<!--
-**naranujo/naranujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
