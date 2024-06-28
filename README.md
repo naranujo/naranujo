@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Nicolás Araujo
 
-🎓 Soy estudiante de 4to año de la Licenciatura en Negocios Digitales en la Universidad de San Andrés. Tengo mucha pasión por el mundo digital, particularmente por las tecnologías emergentes.
+🎓 Soy estudiante del último semestre de la Licenciatura en Negocios Digitales en la Universidad de San Andrés. Tengo mucha pasión por el mundo digital, particularmente por las tecnologías emergentes.
 
-🚀 En los últimos 6 años he dedicado gran parte de mi tiempo a especializarme en áreas como programación, desarrollo de productos digitales y tengo un fuerte interés por el análisis de datos. He participado en proyectos y competencias que me han permitido aplicar mis habilidades y experimentar con tecnologías nuevas y disruptivas.
+🚀 En los últimos 8 años he dedicado gran parte de mi tiempo a especializarme en áreas como programación, desarrollo de productos digitales y tengo un fuerte interés por el análisis de datos. He participado en proyectos y competencias que me han permitido aplicar mis habilidades y experimentar con tecnologías nuevas y disruptivas.
 
 💪 Además, tengo una gran capacidad para trabajar en equipo y enfrentar desafíos complejos. Actualmente, busco oportunidades de prácticas profesionales que me permitan seguir aprendiendo y adquiriendo experiencia en el mundo tech. 🌟
 
